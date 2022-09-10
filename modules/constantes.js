@@ -17,8 +17,6 @@ export default function saludar() {
 }
 
 
-
-
 //important!!!
 // To export as default - let and const, I need to follow this syntax:
 
