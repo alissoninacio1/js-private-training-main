@@ -10,7 +10,7 @@ function restar(a, b) {
  }
 
  
- //a feature in JS when objects values and properties have the same name
+ //a feature in JS is when objects values and properties have the same name
 // you only write a single name
 
 export const aritmetica = {
