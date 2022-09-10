@@ -11,9 +11,17 @@ export let name = "Alisson";
 
 
 //declared function
+//this default  means that a function or a constat is exported as default, 
 export default function saludar() {
     console.log("Hello modules ES6")
 }
 
-//this default  means that a function or a constat is exported as default, 
+
+
+
+//important!!!
+// To export as default - let and const, I need to follow this syntax:
+
+// let number = "dois"
+// export default number
 
